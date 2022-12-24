@@ -1,18 +1,19 @@
-Emoji Search
+#Emoji Search @testing-library
+
+*Title Render , Emoji Search , Emoji Render , Emoji Render After Filter için yazmış olduğum testler. Testing-library öğrenmek ve pratik yapmak için yazdığım test.*
+
 ---
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+<img src="src/testwriting1.png">
 
-
-
-Install
 ---
 
-`npm install`
+<img src="src/testwriting2.png">
 
-
-
-Usage
 ---
 
-`npm start`
+
+
+
+
+
